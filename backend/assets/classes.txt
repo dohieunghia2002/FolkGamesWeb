@@ -1,0 +1,15 @@
+bag
+blindfoled
+cau-leaf
+chicken
+crossbow
+duck
+oxen-pair
+pig
+racing-boat
+rope
+stick
+stilts
+wrestler
+wrestling-techniques
+yoke

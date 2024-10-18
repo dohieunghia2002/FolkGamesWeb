@@ -1,0 +1,274 @@
+[
+    {
+        "id": 1,
+        "imgPath": "src/assets/NBB.jpg",
+        "name": "Bag Jumping",
+        "gameplay": {
+            "Preparation": [
+                "Bags: Prepare several large bags (usually rice bags or similar types) that players can jump into.",
+                "Play Area: Choose a spacious, flat, and safe area to organize the game."
+            ],
+            "How to Play": [
+                "1. Gather Players: Invite many people to participate. Players can compete individually or in teams.",
+                "2. Enter the Game: Each player stands inside a bag and holds the mouth of the bag tightly to prevent it from slipping.",
+                "3. Start Signal: When the start signal is given, all players will jump from the starting line to the finish line.",
+                "4. Rules of the Game: Players must not step out of the bag and should jump to reach the finish line. The first player to reach the finish wins."
+            ],
+            "Rules": [
+                "Players must stay inside the bag throughout the race.",
+                "The player who finishes first wins."
+            ],
+            "Significance": [
+                "Bag Jumping improves health and fitness, and enhances teamwork among players."
+            ]
+        }
+    },
+    {
+        "id": 2,
+        "imgPath": "src/assets/DBBN.jpg",
+        "name": "Bay Nui Cow Racing",
+        "gameplay": {
+            "Preparation": [
+                "Racing Cows: Select healthy cows, typically the Bay Nui breed.",
+                "Race Track: Choose a flat area of land about 200 meters long, cleared of obstacles.",
+                "Equipment: Each pair of cows is attached to a special plow, and the handler holds a whip."
+            ],
+            "How to Play": [
+                "1. Organize the Race: Teams are arranged to start the race. Each team has one or two pairs of cows.",
+                "2. Control the Cows: The handler stands on the plow and uses a whip to control the cows.",
+                "3. Start Signal: At the start signal, the handler guides the cows to race to the finish line.",
+                "4. Win Condition: The team whose cows cross the finish line first wins."
+            ],
+            "Rules": [
+                "Cows must stay on the race track. Handlers must not fall off the plow; otherwise, the team is disqualified."
+            ],
+            "Significance": [
+                "Bay Nui Cow Racing reflects the cultural identity of the Khmer people and promotes community bonds."
+            ]
+        }
+    },
+    {
+        "id": 3,
+        "imgPath": "src/assets/BMBV.jpg",
+        "name": "Blindfolded Duck Catching",
+        "gameplay": {
+            "Preparation": [
+                "Ducks: Choose strong ducks that can run and fly quickly.",
+                "Participants: A minimum of 2 players is required, but the more participants, the merrier.",
+                "Play Area: Select a spacious, obstacle-free area for safety."
+            ],
+            "How to Play": [
+                "1. Gather Players: Players and spectators form a circle in the play area.",
+                "2. Blindfold Players: Two players are blindfolded and stand in the circle.",
+                "3. Release Ducks: A duck is released into the circle.",
+                "4. Catch the Duck: Blindfolded players listen for the duck and attempt to catch it.",
+                "5. Rotate Players: Once a player catches the duck, two new players take their turn."
+            ],
+            "Rules": [
+                "Players must remain inside the circle.",
+                "Blindfolded players can only rely on the sound of the duck to catch it."
+            ],
+            "Significance": [
+                "This game develops players' sense of direction and reflexes, bringing joy during festivals."
+            ]
+        }
+    },
+    {
+        "id": 4,
+        "imgPath": "src/assets/BMBL.jpg",
+        "name": "Blindfolded Pig Catching",
+        "gameplay": {
+            "Preparation": [
+                "Participants: At least 4 players (1 blindfolded, and 3 pretending to be pigs).",
+                "Pig: Use a small pig or a toy pig if a real one is not available.",
+                "Blindfold: A cloth or band to blindfold the player."
+            ],
+            "How to Play": [
+                "1. Divide Teams: One player is blindfolded, and the others act as pigs.",
+                "2. Play Area: Select a spacious, open area.",
+                "3. Start the Game: At the signal, the blindfolded player tries to tag the others.",
+                "4. Tagging Players: When tagged, players sit down. The blindfolded player must guess who they tagged."
+            ],
+            "Rules": [
+                "The game ends when all players are tagged or when the blindfolded player correctly guesses who they tagged."
+            ],
+            "Significance": [
+                "This game enhances communication skills and agility within the group."
+            ]
+        }
+    },
+    {
+        "id": 5,
+        "imgPath": "src/assets/DT.jpg",
+        "name": "Boat Racing",
+        "gameplay": {
+            "Preparation": [
+                "Boats: Each team needs a racing boat made of wood or lightweight materials.",
+                "Participants: Teams of 4 to 10 people depending on the size of the boat.",
+                "Play Area: A large river or pond with deep and safe water."
+            ],
+            "How to Play": [
+                "1. Divide Teams: Participants are divided into teams, each team sits in their boat.",
+                "2. Starting Line: Mark the start and finish lines, usually 100 to 500 meters apart.",
+                "3. Start the Race: At the signal, teams begin paddling towards the finish line.",
+                "4. Win Condition: The first team to reach the finish line wins."
+            ],
+            "Rules": [
+                "Boats must not collide with each other, and capsizing leads to disqualification."
+            ],
+            "Significance": [
+                "Boat racing fosters community spirit and showcases teamwork and strength."
+            ]
+        }
+    },
+    {
+        "id": 6,
+        "imgPath": "src/assets/Cau-leaf-pulling1.png",
+        "name": "Cau Leaf Pulling",
+        "gameplay": {
+            "Preparation": [
+                "Materials: A large Cau leaf and a group of participants.",
+                "Play Area: A flat and open area where players can move freely."
+            ],
+            "How to Play": [
+                "1. Form Teams: Players are divided into two or more teams.",
+                "2. Start the Game: Players from each team pull the Cau leaf towards their side.",
+                "3. Winning Condition: The team that pulls the Cau leaf across a designated line wins."
+            ],
+            "Rules": [
+                "Players must avoid pulling too hard to prevent injury."
+            ],
+            "Significance": [
+                "This traditional game reflects the cultural heritage and teamwork among players."
+            ]
+        }
+    },
+    {
+        "id": 7,
+        "imgPath": "src/assets/CG.jpg",
+        "name": "Cockfighting",
+        "gameplay": {
+            "Preparation": [
+                "Roosters: Select healthy and agile roosters.",
+                "Arena: A spacious, flat area to hold the matches."
+            ],
+            "How to Play": [
+                "1. Organize the Match: Each match involves two roosters.",
+                "2. Start the Match: Roosters are released and begin fighting.",
+                "3. End of Match: The match ends when one rooster is unable to continue."
+            ],
+            "Rules": [
+                "Matches must adhere to animal welfare regulations."
+            ],
+            "Significance": [
+                "Cockfighting reflects cultural traditions and fosters community bonds."
+            ]
+        }
+    },
+    {
+        "id": 8,
+        "imgPath": "src/assets/Crossbow-shooting.jpg",
+        "name": "Crossbow Shooting",
+        "gameplay": {
+            "Preparation": [
+                "Equipment: Crossbow and arrows made from wood or plastic.",
+                "Play Area: A spacious, flat area with a target set up at a safe distance."
+            ],
+            "How to Play": [
+                "1. Set Up the Target: Players aim and shoot at the target.",
+                "2. Take Turns: Players take turns shooting to see who hits the target most accurately."
+            ],
+            "Rules": [
+                "Players must not shoot if there are people nearby or when no target is set."
+            ],
+            "Significance": [
+                "Crossbow shooting showcases skill and dexterity and is a common game during festivals."
+            ]
+        }
+    },
+    {
+        "id": 9,
+        "imgPath": "src/assets/Push-stick.jpg",
+        "name": "Push Stick",
+        "gameplay": {
+            "Preparation": [
+                "Equipment: A long stick (1-2 meters long) made of wood.",
+                "Play Area: A spacious, flat area to ensure player safety."
+            ],
+            "How to Play": [
+                "1. Gather Players: Two players face each other, each holding one end of the stick.",
+                "2. Start the Match: Players push the stick to try to push the opponent's stick outside the designated area."
+            ],
+            "Rules": [
+                "Players must not use excessive force that could injure the opponent."
+            ],
+            "Significance": [
+                "Push Stick reflects the spirit of solidarity and strength within the community."
+            ]
+        }
+    },
+    {
+        "id": 10,
+        "imgPath": "src/assets/Traditional-Wrestling.jpg",
+        "name": "Traditional Wrestling",
+        "gameplay": {
+            "Preparation": [
+                "Wrestling Area: A spacious, flat area covered with sand or grass.",
+                "Outfit: Wrestlers wear traditional attire for ease of movement."
+            ],
+            "How to Play": [
+                "1. Gather Players: Matches take place between two individuals.",
+                "2. Start the Match: Wrestlers use strength and technique to take down the opponent.",
+                "3. Win Condition: A player wins by bringing the opponent to the ground."
+            ],
+            "Rules": [
+                "No violent actions or causing injury to the opponent."
+            ],
+            "Significance": [
+                "Wrestling reflects the cultural spirit and traditions of the Vietnamese people."
+            ]
+        }
+    },
+    {
+        "id": 11,
+        "imgPath": "src/assets/KC.jpg",
+        "name": "Tug of War",
+        "gameplay": {
+            "Preparation": [
+                "Rope: A strong rope, usually 10-20 meters long.",
+                "Play Area: A spacious, flat area with a center line marked."
+            ],
+            "How to Play": [
+                "1. Divide Teams: Players are divided into two teams with equal participants.",
+                "2. Start the Game: Teams pull the rope to try to pull the other team across the center line."
+            ],
+            "Rules": [
+                "Team members must not let go of the rope or use unfair tactics."
+            ],
+            "Significance": [
+                "Tug of war represents teamwork and cooperation and is often played during festivals."
+            ]
+        }
+    },
+    {
+        "id": 12,
+        "imgPath": "src/assets/Walking-on-stilts.jpg",
+        "name": "Walking on Stilts",
+        "gameplay": {
+            "Preparation": [
+                "Stilts: Made from wooden planks with footrests attached.",
+                "Play Area: A spacious, flat area free of obstacles."
+            ],
+            "How to Play": [
+                "1. Demonstrate How to Use Stilts: Players place their feet on the footrests and grasp the stilts.",
+                "2. Start the Race: Players race to see who can walk the fastest on stilts."
+            ],
+            "Rules": [
+                "Players must maintain balance and avoid falling off the stilts."
+            ],
+            "Significance": [
+                "Walking on stilts is a traditional game that showcases balance and agility."
+            ]
+        }
+    }
+]
